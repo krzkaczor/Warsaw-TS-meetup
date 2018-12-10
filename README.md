@@ -1,6 +1,10 @@
-# Warsaw Typescript Meetup
-
-[Meetup](https://www.meetup.com/Warsaw-TypeScript) | [Twitter](https://twitter.com/wwatypescript)
+<p align="center">
+  <img src="./images/logo.png" width="150" alt="Warsaw TS">
+  <h3 align="center">Warsaw TypeScript Meetup</h3>
+  <p align="center">
+    <a href="https://www.meetup.com/Warsaw-TypeScript">Meetup</a> | <a href="https://twitter.com/wwatypescript">Twitter</a>
+  </p>
+</p>
 
 ## What's here
 
